@@ -2,7 +2,7 @@
   - she/her, they/them
   - i'm silly
 - uhh idk, currently learning python, c, c++, javascript; i know html
-- interested in learning code (in hopes of developing games sometime) and making discord bots lol
+- interested in learning code and making discord bots lol
 - might collaborate on smaller entry level projects
 - discord: @.rottingpotato
 
